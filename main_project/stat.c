@@ -10,7 +10,7 @@ void chstat(struct user u)
 {
 
 }
-void statcmp(struct user u)
+void statcmp(struct user u,struct stat s)
 {
 
 }
